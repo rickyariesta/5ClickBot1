@@ -1,8 +1,8 @@
-python bot.py +[phone1] doge
-python bot.py +[phone1] zec
-python bot.py +[phone1] ltc
-python bot.py +[phone1] btc
-python bot.py +[phone1] bch
+python bot.py +12242537182 doge
+python bot.py +12242537182 zec
+python bot.py +12242537182 ltc
+python bot.py +12242537182 btc
+python bot.py +12242537182 bch
 clear
 pwd
 bash start.sh
